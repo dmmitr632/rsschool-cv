@@ -4,7 +4,7 @@
 
 ## Contact Information
 
-**Email** [Gmail](mlrc5egn9@gmail.com)
+**Email** mlrc5egn9@gmail.com
 
 **Discord** @dmmitr632
 

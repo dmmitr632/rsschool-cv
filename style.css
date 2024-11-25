@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+}
+h1 {
+  font-size: 25;
+}
+h2 {
+  font-size: 15;
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+}

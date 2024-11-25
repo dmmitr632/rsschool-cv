@@ -1,11 +1,21 @@
 body {
-  font-family: Arial;
+  font-family: Calibri;
+  text-align: center;
 }
 h1 {
-  font-size: 25;
+  font-size: 35px;
 }
 h2 {
-  font-size: 15;
+  font-size: 25px;
+}
+body {
+  background-color: rgb(224, 243, 250);
+}
+ul {
+  list-style-position: inside;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0;
 }
 .avatar {
   width: 200px;

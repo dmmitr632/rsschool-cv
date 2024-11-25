@@ -1,4 +1,4 @@
-![Photo](https://github.com/dmmitr632/rsschool-cv/tree/gh-pages/myavatar.png)
+![Photo](https://github.com/dmmitr632/rsschool-cv/blob/gh-pages/myavatar.png)
 
 # Dmitry Bondarko
 

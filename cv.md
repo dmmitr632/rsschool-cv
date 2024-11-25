@@ -10,7 +10,7 @@
 
 ## Brief Self-Introduction
 
-Self-learning JavaScript programmer]
+Self-learning JavaScript programmer
 
 ## Skills
 
